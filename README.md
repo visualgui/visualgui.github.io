@@ -1,3 +1,3 @@
 visualgui.github.io
 ===================
-Portfolio sample for Web Design & Usability class.
+Donny Truong’s portfolio sample
